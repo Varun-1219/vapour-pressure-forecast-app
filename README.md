@@ -22,26 +22,6 @@ This is a Streamlit web application for time series forecasting of vapour pressu
 ## 🚀 Deployment
 
 This app is deployed on [Streamlit Cloud](https://streamlit.io/cloud).  
-To deploy your own version:
-
-1. Fork this repository or clone it:
-    ```bash
-    git clone https://github.com/your-username/vapour-pressure-forecast-app.git
-    cd vapour-pressure-forecast-app
-    ```
-
-2. Add your own dataset (optional).
-
-3. Push to GitHub and deploy on Streamlit Cloud.
-
-## ▶️ Run Locally
-
-To run the app locally:
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ## 📦 Requirements
 
