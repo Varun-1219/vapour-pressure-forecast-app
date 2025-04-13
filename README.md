@@ -6,7 +6,7 @@ This is a Streamlit web application for time series forecasting of vapour pressu
 
 - `app.py` – Main Streamlit application
 - `requirements.txt` – List of dependencies
-- `cleaned_weather.csv` – (Optional) Sample dataset for testing
+- `cleaned_weather.csv` – Sample dataset for testing
 
 ## 📊 Features
 
